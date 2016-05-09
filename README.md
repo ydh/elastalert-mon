@@ -1,5 +1,5 @@
 # elastalert-mon
-Bash script monitoring for elastalert service
+Bash init script for elastalert service
 
 # how to run this thing
 ./elastalert (start | stop | status)
